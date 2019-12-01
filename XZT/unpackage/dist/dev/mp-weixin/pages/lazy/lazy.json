@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "瀑布流 + 懒加载",
+  "usingComponents": {
+    "lazy-load": "/components/LazyLoad"
+  }
+}

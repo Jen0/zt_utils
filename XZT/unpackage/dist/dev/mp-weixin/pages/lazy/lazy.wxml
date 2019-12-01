@@ -1,0 +1,1 @@
+<view class="page data-v-5a2e7fea"><lazy-load vue-id="1" allData="{{dataList}}" childClass="list-item" paddingLeft="{{25}}" paddingTop="{{25}}" data-event-opts="{{[['^onBottom',[['onBottom']]],['^clickItem',[['clickItem']]]]}}" bind:onBottom="__e" bind:clickItem="__e" class="data-v-5a2e7fea" bind:__l="__l"></lazy-load></view>
