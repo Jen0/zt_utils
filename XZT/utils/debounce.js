@@ -1,8 +1,10 @@
 /**
  * 方法节流/防抖
+ * fn 原函数
+ * delay 间隔时间
  * 可配置参数 Options 
- * once 只执行一次
- * isStart 立即执行/延迟执行
+ * once 只执行一次 默认true,设置false可实现节流
+ * isStart 立即执行/延迟执行,默认false
  */
 const debounce = (fn, delay, options = {}) => {
 	if (typeof fn !== 'function') {
